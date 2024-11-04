@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765262722554",
+    "project_id": "metroniq-bdde0",
+    "storage_bucket": "metroniq-bdde0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765262722554:android:9e62d58566278d682fe043",
+        "android_client_info": {
+          "package_name": "com.company.MetroniQ"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82vasIhH4QDPYd9ac4_zsqgSnljS-LR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
